@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "RGB",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T08:01:16.962378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RGB",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_RGB_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RGB",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_RGB_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "rgb money",
+      "artist": "bbno$ feat. Lentra & Crosby",
+      "has_synced": true,
+      "path": "select/03_rgb_money_bbno$_feat._Lentra_&_Crosby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "rgb money",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/04_rgb_money_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "rgb money (ft. lentra, Crosby)",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/05_rgb_money_(ft._lentra,_Crosby)_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RGB",
+      "artist": "Mandelbro",
+      "has_synced": true,
+      "path": "select/06_RGB_Mandelbro.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rgb Money",
+      "artist": "bbno$, lentra & Crosby",
+      "has_synced": true,
+      "path": "select/07_Rgb_Money_bbno$,_lentra_&_Crosby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "RGB",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_RGB_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RGB - 2002 Digital Remaster",
+      "artist": "Aleks Syntek",
+      "has_synced": true,
+      "path": "select/09_RGB_-_2002_Digital_Remaster_Aleks_Syntek.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "RGB",
+      "artist": "Aleks Syntek",
+      "has_synced": true,
+      "path": "select/10_RGB_Aleks_Syntek.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "rgb money (feat. Lentra & Crosby)",
+      "artist": "Bbno$",
+      "has_synced": true,
+      "path": "select/11_rgb_money_(feat._Lentra_&_Crosby)_Bbno$.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RGB",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_RGB_YOASOBI.txt"
+    }
+  ]
+}
